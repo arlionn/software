@@ -1,7 +1,7 @@
 ## arlion's software
 
 
-### ZoomIt 4.5 屏幕缩放小软件 [使用说明]() | [微软下载](https://docs.microsoft.com/zh-cn/sysinternals/downloads/zoomit)
+### ZoomIt 4.5 屏幕缩放小软件 [微软下载](https://docs.microsoft.com/zh-cn/sysinternals/downloads/zoomit) | [本站下载]()
 
 ---
 #### ZoomIt 4.5 使用方法
@@ -9,8 +9,6 @@
 - ZoomIt 是一款强大的教学辅助软件，具有屏幕放大、屏幕标注、计时功能，
 软件占用空间不足 0.5M，且无需安装，存放于电脑的任何位置或 U 盘均可。
 ZoomIt 不支持鼠标操作，因此，你需要记住一些常用的快捷键。
-
-- 下载：[微软下载](https://docs.microsoft.com/zh-cn/sysinternals/downloads/zoomit) | [本站下载]()
 
 ---
 #### ZoomIt 快捷操作
