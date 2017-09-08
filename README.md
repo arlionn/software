@@ -1,6 +1,3 @@
-## arlion's software
-
-
 ### ZoomIt 4.5 屏幕缩放小软件 [微软下载](https://docs.microsoft.com/zh-cn/sysinternals/downloads/zoomit) | [使用说明](https://github.com/arlionn/software/blob/ZoomIt/ZoomIt%20%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
 
 ---
